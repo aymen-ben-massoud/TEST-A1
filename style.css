@@ -1,0 +1,26 @@
+h1 {
+  margin-top: 8%;
+  text-align: center;
+}
+.input {
+  display: block;
+  margin-top: 10%;
+  margin-left: 25%;
+  width: 50%;
+}
+.btn {
+  margin-left: 37%;
+  margin-top: 5%;
+  border-radius: 15px;
+  width: 20%;
+}
+.form-control {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 15px;
+}
+.phone {
+  border: solid 2px rgba(97, 89, 78, 0.207);
+  border-radius: 15px;
+  width: 100%;
+}
