@@ -42,5 +42,6 @@ img {
   background-color: rgba(255, 0, 0, 0.796);
 }
 .left {
+  margin-bottom: 5%;
   float: left;
 }
