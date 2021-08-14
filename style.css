@@ -24,3 +24,23 @@ h1 {
   border-radius: 15px;
   width: 100%;
 }
+img {
+  height: 80vh;
+  width: 25vw;
+}
+.search {
+  margin-left: auto;
+  float: left;
+}
+.container {
+  margin-top: 5%;
+
+  border-radius: 15px;
+  background-color: white;
+}
+.register {
+  background-color: rgba(255, 0, 0, 0.796);
+}
+.left {
+  float: left;
+}
